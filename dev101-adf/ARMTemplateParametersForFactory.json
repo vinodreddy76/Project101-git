@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "dev101-adf"
+		},
+		"DevAzureKeyVault_properties_typeProperties_baseUrl": {
+			"value": "https://dev101-access-kv.vault.azure.net/"
+		},
+		"DevAzureStorage_properties_typeProperties_connectionString_secretName": {
+			"value": "devsaaccesssecret"
+		}
+	}
+}

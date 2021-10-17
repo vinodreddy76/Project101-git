@@ -1,0 +1,9 @@
+{
+	"name": "dev101-adf",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9a3c62f-12cf-4089-b823-b5d30f9bc8c2",
+		"tenantId": "cb0f251e-636e-423b-97e4-102997fac022"
+	}
+}
